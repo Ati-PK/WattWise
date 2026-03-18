@@ -1,0 +1,74 @@
+[33mcommit e7de5c0293f426b4675dd3444b20e67c6923fc65[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mjosip[m[33m)[m
+Author: Josip007 <jbosnjakovic094@gmail.com>
+Date:   Mon Mar 16 13:34:04 2026 +0100
+
+    updating net export feature and df_final.csv
+
+data/df_final.csv
+
+[33mcommit db31fa5c29309ac71b12a058648c24024822864c[m
+Author: Josip007 <jbosnjakovic094@gmail.com>
+Date:   Mon Mar 16 13:30:22 2026 +0100
+
+    updating net_export feature and final.csv file
+
+notebooks/FE_Josip.ipynb
+
+[33mcommit a1cdcc6e5c8aea4ec6422699e28d44fa4e49a086[m
+Author: Josip007 <jbosnjakovic094@gmail.com>
+Date:   Mon Mar 16 13:21:46 2026 +0100
+
+    updating net_export
+
+data/df_final.csv
+notebooks/EDA-and-modeling.ipynb
+notebooks/EDA_Josip.ipynb
+notebooks/Energy_Price_Data_Preparation.ipynb.ipynb
+notebooks/FE_Josip.ipynb
+notebooks/catboost_info/catboost_training.json
+notebooks/catboost_info/learn/events.out.tfevents
+notebooks/catboost_info/learn_error.tsv
+notebooks/catboost_info/time_left.tsv
+
+[33mcommit 90caea6dfbc5e6f03580daed41382bd84ab27c9d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 7867cfb 69c7f87
+Author: Cecilia Hornok <cecilia.hornok@gmail.com>
+Date:   Mon Mar 16 11:58:17 2026 +0100
+
+    Merge pull request #41 from Ati-PK/cecilia_branch
+    
+    EDA Cecilia
+
+[33mcommit 7867cfb78037be0d011a16ec8c7fd1fdee996330[m
+Merge: 3a3d3d6 0be5f89
+Author: Ati-PK <atefeh.pour@rwth-aachen.de>
+Date:   Mon Mar 16 11:55:46 2026 +0100
+
+    Merge pull request #40 from Ati-PK/Ati_branch
+    
+    updated net_Export
+
+[33mcommit 69c7f87f94c5326de5cade2c3e37356e6f88a5ff[m
+Author: cecilxxx <cecilia.hornok@gmail.com>
+Date:   Mon Mar 16 11:55:18 2026 +0100
+
+    EDA Cecilia
+
+notebooks/EDA_Cecilia.ipynb
+
+[33mcommit 0be5f8976a1cdc53f213ba83c13b6d04d3702bed[m
+Author: Ati-PK <atefeh.pour@rwth-aachen.de>
+Date:   Mon Mar 16 11:52:00 2026 +0100
+
+    updated net_Export
+
+notebooks/Energy_Price_Data_Preparation.ipynb.ipynb
+
+[33mcommit 3a3d3d6545e315f34e5f08b4aacd0976d5f1ed50[m
+Merge: 65430ec 25d2d79
+Author: Josip007 <jbosnjakovic094@gmail.com>
+Date:   Sun Mar 15 16:32:45 2026 +0100
+
+    Merge pull request #36 from Ati-PK/josip
+    
+    rename EDA_Energy_Price to EDA_Josip
